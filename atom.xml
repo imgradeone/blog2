@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imgradeone.com/blog2</id>
     <title>Gridea</title>
-    <updated>2021-01-17T10:57:16.301Z</updated>
+    <updated>2021-01-17T11:18:17.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imgradeone.com/blog2"/>
     <link rel="self" href="https://imgradeone.com/blog2/atom.xml"/>
@@ -11,35 +11,373 @@
     <icon>https://imgradeone.com/blog2/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://imgradeone.com/blog2/post/hello-gridea/</id>
-        <link href="https://imgradeone.com/blog2/post/hello-gridea/">
+        <title type="html"><![CDATA[维护 - Valine 评论暂时停用]]></title>
+        <id>https://imgradeone.com/blog2/post/wei-hu-valine-ping-lun-zan-shi-ting-yong/</id>
+        <link href="https://imgradeone.com/blog2/post/wei-hu-valine-ping-lun-zan-shi-ting-yong/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-12-05T14:08:12.000Z</updated>
+        <content type="html"><![CDATA[<p>由于 Valine 的安全性问题和没有后端，自己的 Valine Admin 突然嗝屁，而且最近发现了 Waline 这个看上去更好的评论系统，所以 blog.imgradeone.com 的 Valine 评论已禁用。</p>
+<p>对于一些评论内容，我将采取备份处理，附在文章中。</p>
+<p>评论恢复时间待定。</p>
+<hr>
+<h2 id="2021111">2021.1.11</h2>
+<p>blog.imgradeone.com 现已再次开放 Waline 评论 ，但仍处于测试阶段。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[imgradeone.com is here]]></title>
+        <id>https://imgradeone.com/blog2/post/imgradeonecom-is-here/</id>
+        <link href="https://imgradeone.com/blog2/post/imgradeonecom-is-here/">
+        </link>
+        <updated>2020-11-29T06:08:52.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天，我又整了个域名。</p>
+<p>现在，imgradeone.com 正式开放。接下来，.xyz 下的页面将会慢慢转移至 .com 页面。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[翻译 - 来聊聊 elementary OS 6]]></title>
+        <id>https://imgradeone.com/blog2/post/elementary-os-6/</id>
+        <link href="https://imgradeone.com/blog2/post/elementary-os-6/">
+        </link>
+        <updated>2020-10-02T13:19:26.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>作者：Cassidy James Blaede，elementary 联合创始人兼 CXO<br>
+原文：https://blog.elementary.io/updates-for-july-2020/<br>
+发布于 2020 年 8 月 7 日<br>
+翻译者：imgradeone，elementary OS 简体中文翻译者之一<br>
+遵循 CC BY-SA 协议进行翻译</p>
+</blockquote>
+<blockquote>
+<p>7 月更新，以及下一个大版本的抢先体验</p>
+</blockquote>
+<p>不像其他操作系统（尤其是那些开源桌面界的操作系统），elementary OS 在每个大版本里都会频繁推出功能更新。这意味着在 elementary OS 5 的生命周期里，我们都会<a href="https://blog.elementary.io/tags/#updates">每月发布更新</a>，包括系统修复，以及偶尔会发布的新功能，比如全新的首次启动体验，<a href="https://blog.elementary.io/say-hello-to-the-new-greeter/">全新的登录 / 锁屏界面</a>，初始设置向导，及<a href="https://blog.elementary.io/get-settled-into-elementary-os-with-onboarding/">欢迎向导</a>；与旁加载功能和应用中心配合的 <a href="https://blog.elementary.io/updates-for-october-2019/">Flatpak 支持</a>；系统全局快捷键提示；<a href="https://blog.elementary.io/accessibility-features-are-just-features/">辅助功能设置更新</a>；以及更多。与此同时，一系列为 elementary OS 开发的应用程序也在应用中心由开发者发布、更新。</p>
+<p>半“滚动更新”的机制意味着，elementary OS 用户无需等待下一个大版本更新，就可以获得即时的最新功能、修复，以及他们最喜欢的系统及应用更新。然而，在整个生命周期里，我们需要在某个时间点将资源和优先事项转移到大版本上。大版本更新将带来更新的 Ubuntu 内核及仓库，以及背后的重大改进。而正如<a href="https://blog.elementary.io/updates-for-june-2020/">上个月所讲</a>的那样，这个转移已经开始了。</p>
+<h1 id="elementary-os-51-hera-的更新">elementary OS 5.1 Hera 的更新</h1>
+<p>Hera 版本将继续收到来自 Canocial 的 Ubuntu LTS 底层库的安全及稳定性更新，到 2028 年 4 月结束。但我们 elementary 的眼光已经转移到了 OS 6。我们仍然会在 7 月和 8 月末之间针对 OS 5.1 发布一些更新：</p>
+<p>在键盘设置里，我们已经添加了新的输入法视图。这将帮助 <a href="https://en.wikipedia.org/wiki/Intelligent_Input_Bus">Ibus</a> 用户设置和管理输入法——而这个功能对输入中文、日文、韩文、越南文，以及其它字符的用户极其有用。</p>
+<figure data-type="image" tabindex="1"><img src="https://blog.elementary.io/images/updates-for-july-2020/input-method@2x.png" alt="系统设置 - 键盘里的新输入法设置视图" loading="lazy"></figure>
+<p>我们也发布了针对顶栏音乐托盘图标的更新，在没有音乐播放的时候，您设置的默认音乐播放器（可在系统设置 → （暂时没翻译完）里修改）将会显示。这将让你更快地回到自己的音律当中，无论你喜欢哪个音乐播放器。</p>
+<figure data-type="image" tabindex="2"><img src="https://blog.elementary.io/images/updates-for-july-2020/music-indicator@2x.png" alt="显示其他音乐播放器的音乐托盘图标" loading="lazy"></figure>
+<p>应用中心的小型更新将保存并正确恢复窗口位置，同时点击顶栏的小数字徽标将可以直达更新页面。</p>
+<p>感谢 Ubuntu 和 Canocial 的快速反应，elementary OS 5.1 Hera 已经通过更新正式修复了<a href="https://eclypsium.com/2020/07/29/theres-a-hole-in-the-boot/">“BootHole”漏洞</a>。</p>
+<p>您现在就可以通过应用中心，点击“更新全部”按钮获取这些更新，以及 bug 修复和翻译更新。新安装用户也可以下载 elementary OS 5.1.7 的更新镜像。</p>
+<h1 id="appcenter-for-everyone">AppCenter for Everyone</h1>
+<p>在 2 月，我们启动了 <a href="https://blog.elementary.io/appcenter-for-everyone/">AppCenter for Everyone</a> 众筹项目，让这款独立开源的应用商店更上一层楼。我们几乎不知道这次席卷全球的 COVID-19 疫情会在我们计划进行面对面冲刺活动的时候来袭。我们打破了目标，但也只能推迟这么一次活动，而改为更小型的远程冲刺活动。我们远程完成了一些工作，但也没法完成所有 AppCenter for Everyone 的目标，毕竟我们仍然储备了一些资金，为了等到安全的时候举行一次真正的面对面冲刺。</p>
+<p>其中一项参与者回馈是“elementary OS 6 的早期体验版”，这是我们转移目光后正在努力制作的。那么，接下来是……</p>
+<h1 id="elementary-os-6-抢先体验版">elementary OS 6 抢先体验版</h1>
+<p>在几周之前，我们悄然上线了 <a href="https://builds.elementary.io">builds.elementary.io</a>。这个新网站托管着 elementary OS 的抢先体验版，以确保 OEM、开发者、测试人员、支持者和那些激动的粉丝能第一时间体验到最新的预发布版本。目前 elementary OS 6 已经达到了可安装、可启动的状态，我们也已经开始自动将那些在 AppCenter for Everyone 众筹项目中捐赠 25 美元及更多钱的人，以及所有在 GitHub Sponsors 中捐赠 10 美元/月 或更高档位的赞助者加入到抢先体验版名单中。如果你对新版本感到好奇，或者你现在就想体验抢先体验版，那么去访问下方的网站吧：</p>
+<p><a href="https://builds.elementary.io/">elementary OS 抢先体验版版（英文）</a></p>
+<p>抢先体验版是您先人一步获得独家体验权、支持 elementary OS 长期发展，以及反馈早期功能的绝佳方式。仍然澄清一下，拥有定价及分发的正式版 elementary OS 将保持不变，最新的稳定版将仍然可以从 elementary.io 下载，依旧是随意出价。所有源代码完全开放，可以从 <a href="https://github.com/elementary">GitHub</a> 获取。</p>
+<h2 id="elementary-os-6-的新特性">elementary OS 6 的新特性</h2>
+<p>现在我们已经有了抢先体验版，但是在 elementary OS 6 推出 beta 版之前，我们还有 <em>一大堆</em> 事情要做。这里就不列一排详情了，下面是一些仍在开发中的规划功能：</p>
+<ul>
+<li><strong>全新视觉体验</strong>，包括字体以及系统设计样式——这将影响所有地方，从面板、系统应用，到应用中心里的应用。改进的对比度，重构的设计系统，同时保留 elementary OS 经典特色的深度与阴影。当然，还有一些小细节，比如应用窗口底部圆角边框，包括系统设置和终端。在此感谢 Libhandy’s HdyWindow。
+<ul>
+<li><strong>系统组件的暗黑模式</strong>，比如 Dock、顶栏托盘图标、键盘快捷键提示窗口、系统提示框等。我们仍然在爆肝，但目前进展良好。</li>
+<li><strong>用户自选的应用强调色</strong>。应用程序如果自行选择了强调色，那么则会覆盖此设置；但此前的默认<font color="#3689e6">蓝莓色</font>强调色，已经可以修改为一系列其他品牌色，包括<font color="#c6262e">草莓红</font>、<font color="#f37329">橙色</font>、<font color="#f9c440">香蕉黄</font>、<font color="#68b723">青柠色</font>、<font color="#28bca3">薄荷绿</font>、<font color="#a56de2">葡萄紫</font>，以及<font color="#de3e80">泡泡糖粉</font>。</li>
+</ul>
+</li>
+<li><strong>针对交流与组织应用的重大更新</strong>，借助 Evolution 服务器后端。这仍旧处于早期阶段，在完成在线帐号系统之前，我们需要借助 Evolution 服务器。但在此感谢 Corentin Noël 对功能做出的巨大贡献。更新将启用支持一系列应用程序的邮件、日历事件、代办事项等的同步，并且支持许多帐号提供商。
+<ul>
+<li><strong>邮件软件大型重制</strong>，基于 Evolution 数据服务器，替代原 Geary 邮箱引擎。视觉将保持一致，但现在还没到尽善尽美的程度。</li>
+<li><strong>全新 Tasks（待办事项）应用程序</strong>，本地待办事项及事项列表将同步到 Evolution 数据服务器。<font color="#44000000">（待办事项仅为暂定译名，最终译名将由 elementary OS 简体中文翻译组决定。目前 Tasks 的软件翻译可能很烂，望多多提出宝贵意见。——译者注）</font></li>
+</ul>
+</li>
+<li><strong>全新安装器和初始设置向导</strong>，革新首次启动体验。安装系统将比以前更快，流程也将更简单，只需要选择把系统安装到磁盘里需要的东西就行了。这对于 OEM 来说将更友好，他们现在可以直接用系统镜像，把系统装进设备里，或者（像我们就在玩的 Pinebook Pro 实验性镜像一样）把镜像刷进去，不新建用户，但允许用户在首次启动时直接开始初始设置向导。</li>
+<li><strong>更好的应用程序多指触控支持</strong>，借助 Libhandy 库。手势适用于触摸屏、触摸板和鼠标滚轮。在触摸屏上，您的手指滑动手势将和触摸板一致。（？）Epiphany 也会支持手势操控返回 / 前进。</li>
+<li><strong>还有许多东西……</strong> 现在咱只能分享这么多。😉</li>
+</ul>
+<p>之后，随着开发进展，我们会分享更多 elementary OS 6 的更新内容，但现在，是时候揭开它的神秘面纱了。如果你想了解更多信息，你可以去看看 GitHub 上 <a href="https://github.com/orgs/elementary/projects/55">elementary OS 6 的项目面板</a>，同时也欢迎大家<a href="https://elementary.io/get-involved">加入我们</a>，一起塑造更好的未来。</p>
+<hr>
+<h1 id="感谢大家">感谢大家</h1>
+<p>感谢所有支持者、众筹参与者，以及各位用户！有了你们的贡献，elementary 才得以出现。如果你希望构建、优化 elementary OS，不要害羞，来<a href="https://elementary.io/get-involved">加入我们</a>吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【空降部课代表】2020.5.31 让红领巾更加鲜艳 网上主题队日 回放指南]]></title>
+        <id>https://imgradeone.com/blog2/post/kong-jiang-bu-ke-dai-biao-2020531-rang-hong-ling-jin-geng-jia-xian-yan-wang-shang-zhu-ti-dui-ri-hui-fang-zhi-nan/</id>
+        <link href="https://imgradeone.com/blog2/post/kong-jiang-bu-ke-dai-biao-2020531-rang-hong-ling-jin-geng-jia-xian-yan-wang-shang-zhu-ti-dui-ri-hui-fang-zhi-nan/">
+        </link>
+        <updated>2020-06-25T13:33:29.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>正片节目单参考 <a href="https://weibo.com/5192053742/J4jIQjkLr">@全国少工委 官方微博中的图片</a><br>
+点击相应节目标题即可直接跳转到 bilibili 观看，使用电脑版观看可同时调节到相应进度，部分跳转没做<br>
+<strong>不要在这个页面评论，否则一律视为垃圾评论处理</strong></p>
+</blockquote>
+<p><strong>回放入口：</strong> https://www.bilibili.com/video/BV1Q5411p7fH</p>
+<p>灰常感谢皮皮团 @共青团中央 留下的回放 ❤️</p>
+<p>顺便演播室背后有 B 站小电视的抱枕，排面！（估计是各家直播合作伙伴的抱枕都有）</p>
+<p>（其实通过微信小程序码也可以看，但是能比得上 B 站吗（笑））</p>
+<h1 id="正片前">正片前</h1>
+<h2 id="中华谣"><a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=0">中华谣</a> 00:00</h2>
+<p>作词：林玥妍</p>
+<p>作曲：willen（王玉龙）</p>
+<p>编曲：willen</p>
+<p>演唱：林玥妍 / 蔡思慧</p>
+<p>更多详情前往单品简介</p>
+<p>单品：<a href="https://b23.tv/BV1ne41147dX">av242724740 / BV1ne41147dX</a></p>
+<h2 id="红红的太阳"><a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=224">红红的太阳</a> 03:44</h2>
+<p>咱就不写相关介绍了（</p>
+<h2 id="为梦想时刻准备着"><a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=431">为梦想时刻准备着</a> 07:11</h2>
+<p>同样找不到相关介绍（应该是上海第八次少代会的宣传曲）</p>
+<p>但微信小程序直播回放是从这里开始的</p>
+<h2 id="不知道具体是啥名字w"><a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=607">（不知道具体是啥名字w）</a> 10:07</h2>
+<p>只知道是西藏少先队的故事</p>
+<h2 id="加油-我们心在一起"><a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=714">加油 + 我们心在一起</a> 11:54</h2>
+<p>作词：孙涌智</p>
+<p>作曲：郭亮</p>
+<p>演唱：全球中华少儿</p>
+<p>是海内外大合唱</p>
+<h2 id="祖国青春万万岁"><a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=1086">祖国青春万万岁</a> 18:06</h2>
+<p>国庆国漫庆贺曲</p>
+<p>单品：<a href="https://b23.tv/BV1uE41197wa">av69650380 / BV1uE41197wa</a></p>
+<h2 id="少年"><a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=1297">少年</a> 21:37</h2>
+<blockquote>
+<p>你还是 1919 年的那个少年吗？</p>
+</blockquote>
+<p>原唱梦然 x 火神山雷神山建造者 x 上海少年儿童 强势联动</p>
+<p>青微工作室出品，必属精品</p>
+<h1 id="正片"><a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=1599">正片</a> 26:39</h1>
+<h1 id="3151-少年-少年-祖国的春天-团中央宣传部">31:51 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=1911">少年 少年 祖国的春天</a> - 团中央宣传部</h1>
+<p>是儿歌串烧</p>
+<h1 id="4010-红船边上的入队仪式-浙江-嘉兴-南湖">40:10 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=2410">红船边上的入队仪式</a> - 浙江 / 嘉兴 / 南湖</h1>
+<h1 id="4836-撒贝宁读习大大讲故事">48:36 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=2916">撒贝宁读习大大讲故事</a></h1>
+<p>什么啊，咱撒老师读得还不错嘛，哼（逃走）</p>
+<h1 id="5451-那兔排面">54:51 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=3291">那兔排面！</a></h1>
+<h1 id="6403-让红领巾更加鲜艳-袁隆平-钟南山-李兰娟-包为民">64:03 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=3843">让红领巾更加鲜艳</a> - 袁隆平 钟南山 李兰娟 包为民</h1>
+<h1 id="6912-你好吗-团中央宣传部">69:12 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=4152">你好吗</a> - 团中央宣传部</h1>
+<h1 id="7404-我的云队日-中国少年报-未来网">74:04 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=4444">我的“云”队日</a> - 中国少年报 / 未来网</h1>
+<h1 id="7915-自古英雄出少年-凯叔">79:15 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=4755">自古英雄出少年</a> - 凯叔</h1>
+<h1 id="9210-中国少年-未来可期-青微工作室">92:10 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=5530">中国少年 未来可期</a> - 青微工作室</h1>
+<h1 id="9443-时刻准备着-贵州">94:43 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=5683">时刻准备着</a> - 贵州</h1>
+<p>顺便 Scratch 排面！！！</p>
+<h1 id="9858-夜空中最亮的星-厦门六中合唱团">98:58 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=5938">夜空中最亮的星</a> - 厦门六中合唱团</h1>
+<p>啊啊啊啊啊啊啊啊啊排面啊啊啊啊啊啊啊啊</p>
+<h1 id="10356-一起来做眼保健操这里把嘉宾出场也算上了">103:56 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=6236">一起来做眼保健操</a>（这里把嘉宾出场也算上了）</h1>
+<h1 id="11439-生长吧-团中央">114:39 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=6879">生长吧</a> - 团中央</h1>
+<h1 id="11809-古诗词的秘密-蒙曼">118:09 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=7089">古诗词的秘密</a> - 蒙曼</h1>
+<p>蒙曼老师啊啊啊啊啊啊啊啊啊啊啊</p>
+<h1 id="13141-长大后我就成了你-张保国-王威-樊宇">131:41 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=7901">长大后我就成了你</a> - 张保国 王威 樊宇</h1>
+<p>有点长，慢慢看</p>
+<h1 id="15736-航天城里的航天娃-甘肃-酒泉">157:36 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=9456">航天城里的航天娃</a> - 甘肃 / 酒泉</h1>
+<h1 id="16929-美丽的化学四季-美丽科学">169:29 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=10169">美丽的化学：四季</a> - <a href="http://weibo.com/u/5356394754">美丽科学</a></h1>
+<h1 id="17151-神奇的科学小实验-中科院物理研究所中二所">171:51 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=10311">神奇的科学小实验</a> - 中科院物理研究所（<s>中二所</s>）</h1>
+<h1 id="18137-少年中国说-河南">181:37 <a href="https://www.bilibili.com/video/BV1Q5411p7fH?t=10897">少年中国说</a> - 河南</h1>
+<h1 id="18534-跟解放军叔叔一起走边防-广西-南宁-崇左">185:34 跟解放军叔叔一起走边防 - 广西 / 南宁 / 崇左</h1>
+<h1 id="19251-山谷回响-贵州-黔东南">192:51 山谷回响 - 贵州 / 黔东南</h1>
+<h1 id="19623-文明其精神野蛮其体魄-陕西-平利">196:23 文明其精神，野蛮其体魄 - 陕西 / 平利</h1>
+<h1 id="20102-我是红领巾小健将-辅导员杂志-未来网">201:02 我是红领巾小健将 - 《辅导员》杂志 / 未来网</h1>
+<h1 id="20348-一起奔跑吧-中国女足">203:48 一起奔跑吧！ - 中国女足</h1>
+<h1 id="20842-这部-1952-年的电话教给我们劳动最光荣-上海美影">208:42 这部 1952 年的电话教给我们：劳动最光荣 - 上海美影</h1>
+<h1 id="21545-我是小小熊猫饲养员-四川-成都-都江堰">215:45 我是小小熊猫饲养员 - 四川 / 成都 / 都江堰</h1>
+<h1 id="22155-你知道什么是手撕钢吗-山西-太原">221:55 你知道什么是“手撕钢”吗 - 山西 / 太原</h1>
+<h1 id="22813-美好生活-劳动创造-中国少年报-未来网">228:13 美好生活 劳动创造 - 中国少年报 / 未来网</h1>
+<h1 id="23400-致敬红领巾-共青团中央-全国少工委">234:00 致敬红领巾 - 共青团中央 / 全国少工委</h1>
+<p>单品：<a href="https://b23.tv/BV1jE411o7vz">av71274505 / BV1jE411o7vz</a></p>
+<hr>
+<h1 id="评论备份">评论备份</h1>
+<p>imgradeone<br>
+四季</p>
+<p>单品：<br>
+https://www.bilibili.com/video/BV13s411Y7Sv</p>
+<p>imgradeone<br>
+少年 少年 祖国的春天</p>
+<p>单品：<br>
+https://weibo.com/2803301701/H7lCFxBuX</p>
+<p>imgradeone<br>
+@imgradeone , 其实 B 站就有，《童声飘过 40 年》</p>
+<p>BV1Kt411i7g7</p>
+<p>imgradeone<br>
+淦，我双标了</p>
+<p>哪天有空把文案改一下</p>
+<p>imgradeone<br>
+生长吧</p>
+<p>单品：<br>
+https://weibo.com/3937348351/DycsWDNgV</p>
+<p>imgradeone<br>
+为梦想时刻准备着 - 2019 上海第八次少代会主题曲</p>
+<p>单品：<br>
+https://weibo.com/1964619957/HwSuDsc5g</p>
+<p>imgradeone<br>
+加油 + 我们心在一起</p>
+<p>单品：<br>
+https://weibo.com/3937348351/Iv4vrmejW</p>
+<p>imgradeone<br>
+我是红领巾小健将</p>
+<p>单品：<br>
+https://weibo.com/3937348351/J4EQumDb7</p>
+<p>imgradeone<br>
+时刻准备着</p>
+<p>单品：<br>
+https://weibo.com/3937348351/J6t8Ee3kX</p>
+<p>imgradeone<br>
+夜空中最亮的星 - 让红领巾更加鲜艳 特别版</p>
+<p>单品（由@意林杂志 转发@共青团中央）：<br>
+https://weibo.com/1272741311/JbUnPCwig</p>
+<p>imgradeone<br>
+中国少年 未来可期</p>
+<p>单品：<br>
+https://weibo.com/3937348351/J4BYSwCOK</p>
+<p>imgradeone<br>
+我是小小熊猫饲养员</p>
+<p>单品：<br>
+https://weibo.com/3937348351/J6RtpdioO</p>
+<p>imgradeone<br>
+你还是 1919 年的那个少年吗？</p>
+<p>单品：<br>
+https://weibo.com/3937348351/J0l0sckf0</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刻入 DNA 里的听力试音]]></title>
+        <id>https://imgradeone.com/blog2/post/tlsy/</id>
+        <link href="https://imgradeone.com/blog2/post/tlsy/">
+        </link>
+        <updated>2020-05-24T10:07:53.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>放了 6 遍，还不刻入 DNA？（（（<br>
+可能与原文有出入<br>
+如果侵权，请联系邮箱</p>
+</blockquote>
+<p>M: Hello?</p>
+<p>G: Hello, Dad!</p>
+<p>M: <strong>Oh, Susan!</strong> How is everything?</p>
+<p>G: Fine. I'm just calling to see how you and Mama are. I miss you so much!</p>
+<p>M: We are fine. Are you still very busy?</p>
+<p>G: Yeah. I am working hard on a business plan. I'll take a business trip next week.</p>
+<p>M: She is down (?) at the shopping centre, buying some food.</p>
+<p>G: How about my little brother, Tom?</p>
+<p>M: He is not feeling well yesterday, so Mum took him to the hospital this morning. He's in bed.</p>
+<p>G: What's wrong? Is it serious?</p>
+<p>M: Just a fever, and, he is feeling better now. Don't worry.</p>
+<p>G: Tell him I'll bring him some toys when I come back home.</p>
+<p>M: OK. When are you coming back?</p>
+<p>G: I... haven't decided yet. Maybe... in two weeks? Hopefully, I will be able to stay at home for three weeks this time.</p>
+<p>M: Great! Take good care of yourself.</p>
+<p>G: I will. See you soon, Dad!</p>
+<p>M: See you, Susan!</p>
+<hr>
+<h1 id="评论备份">评论备份</h1>
+<p>imgradeone<br>
+We’re planning for the business trip next week. -&gt; I’ll take a business trip next week.</p>
+<p>imgradeone<br>
+sone – some</p>
+<p>我手残了（</p>
+<p>imgradeone<br>
+修正</p>
+<p>Yeah. I am working hard on a business plan. We’re planning for the business trip next week.<br>
+…how you and Mama are.<br>
+…stay at home for three weeks this time.<br>
+没法开 Gridea，只能拿班上电脑发个评论</p>
+<p>imgradeone<br>
+后天又可以听试音了（狂喜）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#壁纸库 - Ubuntu Kylin（优麒麟）20.04 Beta 壁纸]]></title>
+        <id>https://imgradeone.com/blog2/post/ukylin2004walls/</id>
+        <link href="https://imgradeone.com/blog2/post/ukylin2004walls/">
+        </link>
+        <updated>2020-04-03T09:22:30.000Z</updated>
+        <content type="html"><![CDATA[<p>共含 13 张 Ubuntu Kylin 20.04 壁纸，以及部分原版 Ubuntu 20.04 壁纸</p>
+<p>可在 <code>/usr/share/wallpapers/</code> 找到它们，亦可在下方下载。</p>
+<h1 id="预览">预览</h1>
+<figure data-type="image" tabindex="1"><img src="https://assets.imgradeone.xyz/ukylin/default.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://assets.imgradeone.xyz/ukylin/calla.png" alt="" loading="lazy"></figure>
+<h1 id="下载">下载</h1>
+<p><a href="https://assets.imgradeone.xyz/ukylin/ubuntukylin2004-wallpapers.zip">assets.imgradeone.xyz 下载</a></p>
+<p><a href="https://imgradeone.cowtransfer.com/s/7fa135d6a1f640">奶牛快传</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帮你选择 Linux 发行版的 Distrochooser，现在更加懂你]]></title>
+        <id>https://imgradeone.com/blog2/post/distrochooser-beta/</id>
+        <link href="https://imgradeone.com/blog2/post/distrochooser-beta/">
+        </link>
+        <updated>2020-04-02T04:05:50.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://distrochooser.de/zh-cn/">Distrochooser</a> 是由德国人 <a href="https://github.com/cmllr">Christoph Müller</a> 推出的，帮助 Linux 用户选择适合自己的 Linux 发行版的网站。而现在，更智慧、更懂你的 Distrochooser 正在进行测试。</p>
+<p>你可以访问 <a href="https://beta.distrochooser.de">beta.distrochooser.de</a>，体验新版 Distrochooser。（新版 Distrochooser 暂未提供中文版本）</p>
+<p>但在此之前，让我们先来看看：</p>
+<h1 id="distrochooser-如何了解我的需求">Distrochooser 如何了解我的需求？</h1>
+<p>Distrochooser 通过简单的 16 个问题，来了解你的 Linux 使用需求。你可以按顺序填写它们，也可以<strong>完全不按顺序</strong>。完成问卷后，你还可以更改各个问题的权重。同时，所有问题<strong>都不是必答题</strong>，如果相关选项完全不符合自己，你可以跳过问题。</p>
+<p>完成问卷后，Distrochooser 将罗列适合你的发行版。接下来，自己选择吧！Distrochooser 就帮你到这里了。</p>
+<p>当然，如果怕隐私问题，你也可以一键删除这些回答。</p>
+<h1 id="那么新的测试版多了什么">那么新的测试版多了什么？</h1>
+<h2 id="更简便-专注的问卷">更简便、专注的问卷</h2>
+<p>新的 Distrochooser 将问卷界面从列表式改为了一页一题式，使回答问卷更专注。同时，问题数量从 16 个 降到 13 个，整合了一些冗余的问题，使流程更快速。</p>
+<h2 id="冲突项提示">冲突项提示</h2>
+<p>我相信有许多人会在填问卷时钻牛角尖的，比如前面选自己会一点点 Linux 知识，后面又吹嘘说自己绝大部分问题都能解决。现在，Distrochooser 会识别你的这些矛盾行为，并且给予你提示，算是对一些小学生的抨击了。</p>
+<blockquote>
+<p>不过目前这个机制如果这么解释，也有一点点问题，比如“预装所有基本软件”和“拥有 Live Mode”被判为冲突。</p>
+</blockquote>
+<h2 id="更精细客观的推荐原因">更精细客观的推荐原因</h2>
+<p>以前，Distrochooser 仅罗列所有适合你的地方；现在，它更加客观了。在测试版里，Distrochooser 会详尽地列出<strong>几乎全部主流发行版</strong>的优点、缺点，同时也会显示不会推荐某个发行版的理由。虽然借助更客观的推荐原因，你可以更快地找到更适合自己的发行版，更快入坑 Linux。</p>
+<p>如果这个发行版很符合你的需求，就给它一个小心心吧；如果不喜欢，那就点击“心碎”。当然，如果你觉得某个板块爱眼，也可以隐藏发行版的推荐原因。</p>
+<h2 id="为你的单个刚需加星">为你的单个刚需“加星”</h2>
+<p>在原版中，你需要改变整个问题的权重来突出你的刚需；而在新版，你只需要在你的刚需旁点击星星，就可以提高单个需求的权重。同时在结果里，你的刚需也会出现星星，帮助你更快选择。</p>
+<h1 id="缺陷">缺陷</h1>
+<h1 id="结果的区别">结果的区别？</h1>
+<h2 id="旧版-distrochooser">旧版 Distrochooser</h2>
+<p>首先是 <a href="https://distrochooser.de/zh-cn/456366">旧版的结果</a>。你可以点击链接去查看结果。</p>
+<p>KDE neon 处在列表的首位，第三位是 Zorin OS，第五位是我个人最喜欢的 Manjaro，而可怜的 Ubuntu 被丢到了列表的最后一位。</p>
+<h2 id="新版-distrochooser">新版 Distrochooser</h2>
+<p>你可以在 <a href="https://beta.distrochooser.de/en/0856036266/">这里</a> 查看我在新版 Distrochooser 的结果。</p>
+<p>它把所有的发行版都列出来，但是经过简单的辨别，看到🚫这个标志就可以直接排除。最终对于我来说，可以排除 Ubuntu、Arch Linux（原生的）、Gentoo、Xubuntu、Lubuntu、Ubuntu MATE、Artix Linux。接下来只需要从剩下的里面找就行了。</p>
+<p>（Ubuntu 好惨啊 = =）</p>
+<h1 id="立即体验新的-distrochooser">立即体验新的 Distrochooser</h1>
+<p>你可以访问 <a href="https://beta.distrochooser.de">beta.distrochooser.de</a>，体验新版 Distrochooser。（新版 Distrochooser 暂未提供中文版本）</p>
+<p>希望各位能少走弯路，找到恰到好处的那个 Linux 发行版。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[短教程 - 在 HTML5 UP! 的模板里使用最新的 Font Awesome 图标库]]></title>
+        <id>https://imgradeone.com/blog2/post/html5up-with-latest-fa/</id>
+        <link href="https://imgradeone.com/blog2/post/html5up-with-latest-fa/">
+        </link>
+        <updated>2020-03-28T13:42:27.000Z</updated>
+        <content type="html"><![CDATA[<p>由于 HTML5 UP! 的模板目前统一配置的是 Font Awesome 5.9.0，而且 Font Awesome 的图标库一直在更新，因此可能导致部分图标的过时。更新一下 Font Awesome 可以让网站更好地展现各样的图标。</p>
+<h1 id="下载-font-awesome-的-webfont-css-文件">下载 Font Awesome 的 Webfont / CSS 文件</h1>
+<p>只需前往 <a href="https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself">这个教程链接</a>，下载 Font Awesome for the Web（那么大一个按钮，我就不信你看不到）。</p>
+<blockquote>
+<p>注意：从这里获取到的是 Free 版本，共含 1588（v5.13.0）个免费图标，带有 Solid 样式（和小部分 Regular 样式）的图标，以及品牌图标。如果你可以购买 Pro，则会有更多图标。<br>
+免费版只需同时遵守 <a href="https://fontawesome.com/license/free">Font Awesome Free License</a> 即可，简而言之，就是不要将 Font Awesome 的名字用于命名项目。</p>
+</blockquote>
+<h1 id="将文件导入到网站里">将文件导入到网站里</h1>
+<p>打开 <code>网站源文件夹/assets/</code>，</p>
+<h2 id="在-webfonts-下">在 <code>/webfonts</code> 下</h2>
+<p>将下载的 <code>.zip</code> 文件中 <code>/webfonts</code> 的所有文件丢进网站的 <code>./assets/webfonts/</code> 文件夹。</p>
+<h2 id="在-css-下">在 <code>/css</code> 下</h2>
+<p>将下载的 <code>.zip</code> 文件中 <code>/css</code> 的 <code>all.min.css</code> 丢进网站的 <code>./assets/css/</code> 文件夹，删除原有的 <code>fontawesome-all.min.css</code>，并将新的 <code>all.min.css</code> 重命名为 <code>fontawesome-all.min.css</code>。</p>
+<h1 id="打开网站测试一下">打开网站测试一下</h1>
+<p>如果图标没变成方框，那么 Font Awesome 就更新成功了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[imgradeone.xyz 已使用 CloudFlare DNS！]]></title>
+        <id>https://imgradeone.com/blog2/post/cloudflarecdn-enabled/</id>
+        <link href="https://imgradeone.com/blog2/post/cloudflarecdn-enabled/">
+        </link>
+        <updated>2020-03-25T06:01:37.000Z</updated>
+        <content type="html"><![CDATA[<p>为加快网站的加载速度（尤其是中国大陆地区），目前 imgradeone.xyz 及所有子域名均已使用 CloudFlare 提供的 DNS 服务。</p>
+<p>欢迎各位访问者体验更快的 imgradeone.xyz，同时也欢迎大家测试加载速度。</p>
+<hr>
+<h1 id="评论备份">评论备份</h1>
+<p><a href="https://blog.jimmyqin.cn/">JimmyQin</a> 2020-06-19<br>
+网站速度很棒啊！可是CF不是大多节点速度并不快吗？是有什么特别优化技巧么？<a href="https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/aa/2018new_bingbujiandan_thumb.png">（表情）</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一么的视频平台范围扩大了！]]></title>
+        <id>https://imgradeone.com/blog2/post/yi-me-de-shi-pin-ping-tai-fan-wei-kuo-da-liao/</id>
+        <link href="https://imgradeone.com/blog2/post/yi-me-de-shi-pin-ping-tai-fan-wei-kuo-da-liao/">
+        </link>
+        <updated>2020-03-10T06:40:22.000Z</updated>
+        <content type="html"><![CDATA[<p>为了扩大影响范围，以及打击盗视频行为，从现在起，你可以在更多平台看到一年级么么哒的视频和文章了。</p>
+<ul>
+<li>爱奇艺：<a href="https://www.iqiyi.com/u/1477971410">一么的音游圈</a></li>
+<li>今日头条 / 西瓜视频：一么的音游圈</li>
+<li>腾讯视频：很不幸，虽然我可以在腾讯视频上传视频，但是不会显示作者，只会显示“用户上传”。若申请企鹅号，认证目前也十分麻烦......所以暂时不考虑</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
